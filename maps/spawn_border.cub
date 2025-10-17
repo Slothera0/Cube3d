@@ -1,0 +1,15 @@
+NO ./texture/test.xpm
+SO ./texture/egg.xpm
+WE ./texture/sand_wall.xpm
+EA ./texture/sand.xpm
+
+C 229,255,255
+F 120,255,160
+
+111111
+100101
+100001
+111101
+111101
+110001
+111S11
